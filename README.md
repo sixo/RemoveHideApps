@@ -7,5 +7,5 @@ Before you can use the app, you first need to make it a device owner with the fo
 adb shell dpm set-device-owner eu.sisik.removehideapps/.DevAdminReceiver
 ```
 
-For more information check out my blogposts
-[www.sisik.eu/blog/android/media/add-text-to-video](https://sisik.eu/blog/android/dev-admin/uninstalling-and-disabling-apps)
+For more information check out my blogpost
+[www.sisik.eu/blog/android/dev-admin/uninstalling-and-disabling-apps](https://sisik.eu/blog/android/dev-admin/uninstalling-and-disabling-apps)
